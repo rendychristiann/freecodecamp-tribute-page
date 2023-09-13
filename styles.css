@@ -1,0 +1,68 @@
+body{
+    font-family: tahoma;
+    width: 100%;
+  }
+  
+  h1, p{
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  #mainfield{
+    background-color: #d3d3d3;
+    margin: 30px 15px 30px 15px;
+    border-radius: 10px;
+  }
+  
+  #image{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+  }
+  
+  #title{
+    font-size: 30px;
+    margin-bottom: 30px;
+  }
+  #description{
+    font-size: 15px;
+  }
+  
+  #imgdivfield{
+    width: 95%;
+    margin: 5px auto 5px auto;
+    background-color: #fff;
+    border-radius: 10px;
+  }
+  
+  figcaption{
+    margin: 15px auto;
+    text-align: center;
+  }
+  
+  fieldset{
+    border: none;
+  }
+  
+  #tribute-info{
+    margin: 0 auto;
+    min-width: 400px;
+    max-width: 600px;
+  }
+  .bold{
+    font-weight: 800;
+  }
+  
+  li{
+    margin-bottom: 30px;
+  }
+  
+  .quotes{
+    text-align: justify;
+  }
+  
+  h4{
+    margin: 20px auto;
+    width: 800px;
+  }
